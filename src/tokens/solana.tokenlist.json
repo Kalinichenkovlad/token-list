@@ -10501,7 +10501,7 @@
       "chainId": 101,
       "address": "4G85c5aUsRTrRPqE5VjY7ebD9b2ktTF6NEVGiCddRBDX",
       "symbol": "LOVE",
-      "name": "B ❤ P",
+      "name": "B ? P",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4G85c5aUsRTrRPqE5VjY7ebD9b2ktTF6NEVGiCddRBDX/logo.png",
       "tags": [
@@ -14526,7 +14526,7 @@
       "chainId": 101,
       "address": "D3gHoiYT4RY5VSndne1fEnpM3kCNAyBhkp5xjNUqqPj9",
       "symbol": "PROEXIS",
-      "name": "ProExis Prova de Existência Blockchain",
+      "name": "ProExis Prova de Existencia Blockchain",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D3gHoiYT4RY5VSndne1fEnpM3kCNAyBhkp5xjNUqqPj9/logo.png",
       "tags": [
@@ -14575,8 +14575,8 @@
     {
       "chainId": 101,
       "address": "5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ",
-      "symbol": "GÜ",
-      "name": "GÜ",
+      "symbol": "GU",
+      "name": "GU",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5KV2W2XPdSo97wQWcuAVi6G4PaCoieg4Lhhi61PAMaMJ/logo.png",
       "tags": [
@@ -35435,7 +35435,7 @@
       "chainId": 101,
       "address": "8pfJr8MUHjS5tDVajmRCP7abEvEj3oYbYFR6f5jEhPH3",
       "symbol": "SLT",
-      "name": "Soulé Token",
+      "name": "Soule Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8pfJr8MUHjS5tDVajmRCP7abEvEj3oYbYFR6f5jEhPH3/logo.png",
       "tags": [
@@ -41211,7 +41211,7 @@
         "community-token"
       ],
       "extensions": {
-        "description": "RACELAND S.A. Internal Coin by RACELAND Automação Lda",
+        "description": "RACELAND S.A. Internal Coin by RACELAND Automacao Lda",
         "website": "https://raceland.pt"
       }
     },
@@ -41702,7 +41702,7 @@
         "tokenization"
       ],
       "extensions": {
-        "description": "AZA is a token of Kaliza’s platforms that offer simplified real-world investments.",
+        "description": "AZA is a token of Kaliza�s platforms that offer simplified real-world investments.",
         "telegram": "https://t.me/kaliza_launchpad",
         "twitter": "https://twitter.com/kaliza_aza",
         "website": "https://www.kaliza.io"
@@ -49897,7 +49897,7 @@
       "chainId": 101,
       "address": "9ansGKK89WQJobpBQjTzJKUr5cjfQXXmzj81ipLinix5",
       "symbol": "IMP",
-      "name": "Império Token",
+      "name": "Imperio Token",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/idrinkpoison/crypto/main/logo.png",
       "tags": [
@@ -51256,7 +51256,7 @@
       "chainId": 101,
       "address": "ApToJQDQ9awk5jaUhJd6ZUQ8f5mbwVtkhmHSoJojkpxc",
       "symbol": "PAC",
-      "name": "Pingüino Anarquista Coin",
+      "name": "Pinguino Anarquista Coin",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/martinvox/mvox-solana-token/main/logo.jpg",
       "tags": [
@@ -51681,7 +51681,7 @@
         "utility-token"
       ],
       "extensions": {
-        "description": "Elite XP is a new skill-based wagering platform for gamers to play and earn crypto based on their own in-game performance. We’re bringing play-to-earn functionality to existing popular games like Fortnite, Dota 2, and more! Powered by Solana.",
+        "description": "Elite XP is a new skill-based wagering platform for gamers to play and earn crypto based on their own in-game performance. We�re bringing play-to-earn functionality to existing popular games like Fortnite, Dota 2, and more! Powered by Solana.",
         "discord": "https://discord.gg/zAKmq5N279",
         "imageUrl": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5hUanQop7uL6V1S1U7tydn7SBuieRSW6wYsbXWea3Lsi/logo.svg",
         "twitter": "https://twitter.com/XPcorp",
@@ -65508,8 +65508,20 @@
       "tags": [
         "social-token"
       ]
+    }.
+    {
+      "chainId": 101,
+      "address": "7gkLeJq8xx5qtPCuLaas6qXoJdiFbLc6vg3M5RLMtXW2",
+      "symbol": "CRONA",
+      "name": "CRONA",
+      "decimals": 9,
+      "logoURI": "https://scontent.fkbp1-1.fna.fbcdn.net/v/t39.30808-6/271201622_113572924528198_3786350910505065000_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=AwVnOwIIPbYAX_EA9bA&_nc_ht=scontent.fkbp1-1.fna&oh=00_AT-Jm4KNl8SMGOtrKDQLhi0NVqQxISFhzaCO7B4xA_X2bA&oe=61D9AF01",
+      "tags": [ 
+	"social-token"
+      ]
     }
   ],
+
   "version": {
     "major": 0,
     "minor": 3,
